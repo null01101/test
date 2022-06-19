@@ -1,0 +1,11 @@
+ {
+  "testEnvironment": "node",
+  "clearMocks": true,
+  "collectCoverage": true,
+  "verbose": true,
+  "collectCoverageFrom": [
+    "src/**/*",
+    "!src/index.js"
+  ],
+  "transform": {}
+}
